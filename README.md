@@ -23,6 +23,13 @@ MIT License
 - `requests` (install using `pip install requests`)
 - `tqdm` (install using `pip install tqdm`)
 
+## Forking
+Fork the repository. Create a new branch (git checkout -b feature/YourFeature). Commit your changes (git commit -m 'Add some feature'). Push to the branch (git push origin feature/YourFeature). Open a pull request.
+
+## Support
+Support If you have any questions or need support, please open an issue on GitHub or contact us at kiamarsnazaridehkordi@gmail.com 
+or call +989903390280.
+
 ## Usage
 
 Clone the repository:
@@ -32,7 +39,3 @@ cd CoolDownloader
 pip install -r requirements.txt
 chmod +x Cool_Downloader.py
 python cool_downloader.py
-
-Fork the repository. Create a new branch (git checkout -b feature/YourFeature). Commit your changes (git commit -m 'Add some feature'). Push to the branch (git push origin feature/YourFeature). Open a pull request.
-
-Support If you have any questions or need support, please open an issue on GitHub or contact us at kiamarsnazaridehkordi@gmail.com.
